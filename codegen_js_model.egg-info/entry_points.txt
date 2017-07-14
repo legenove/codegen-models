@@ -1,0 +1,3 @@
+[console_scripts]
+codegen_js_model = codegen_js_model:generate
+

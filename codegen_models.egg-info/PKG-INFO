@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: codegen-models
+Version: 0.0.1
+Summary: Generate WXapp Model (MVC) code from Swagger docs.
+Home-page: UNKNOWN
+Author: legenove
+Author-email: 396410414@qq.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
